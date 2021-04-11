@@ -1,0 +1,4 @@
+Nome:Joao
+Idade:19
+Tempo em ano:2
+Equipe:SEK
