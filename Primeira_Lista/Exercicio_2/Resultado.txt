@@ -1,0 +1,21 @@
+Nome:Joao
+Idade:19
+Tempo em ano:2
+Equipe:SEK
+
+
+Atualiza
+Nome:Leandro
+Idade:25
+Tempo em ano:3
+Equipe:SEK
+
+
+Nome:Mara
+Idade:34
+Tempo em ano:4
+Equipe:Humanoide
+
+
+Quantidade de Pessoas na equipe Sek:1
+Quantidade de Pessoas na equipe Humanoide:1
