@@ -1,0 +1,14 @@
+Digite uma nome : 
+Mateus
+Digite uma idade : 
+19
+Digite um tempo : 
+3
+Digite uma equipe : 
+Humanoide
+
+
+Nome:Mateus
+Idade:19
+Tempo em ano:3
+Equipe:Humanoide

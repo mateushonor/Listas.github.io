@@ -1,0 +1,22 @@
+Lucas capitão Humanoide
+Idade:23
+Tempo em ano:3
+Equipe:Humanoide
+
+
+Marcos capitão Sek
+Idade:21
+Tempo em ano:2
+Equipe:SEK
+
+
+Felipe proximo capitão Sek
+Idade:18
+Tempo em ano:1
+Equipe:SEK
+
+
+Marcio proximo capitão Humanoide
+Idade:20
+Tempo em ano:2
+Equipe:Humanoide
