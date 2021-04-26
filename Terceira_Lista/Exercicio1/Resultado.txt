@@ -1,0 +1,7 @@
+Minha Lista
+[[Nome: null,  idade: 0, Tempo em ano: 0, Equipe: null], [Nome: null,  idade: 0, Tempo em ano: 0, Equipe: null], [Nome: null,  idade: 0, Tempo em ano: 0, Equipe: null]]
+Posição a ser excluida:1
+Posição Removida
+[[Nome: null,  idade: 0, Tempo em ano: 0, Equipe: null], [Nome: null,  idade: 0, Tempo em ano: 0, Equipe: null]]
+Posição adicionada
+[[Nome: null,  idade: 0, Tempo em ano: 0, Equipe: null], [Nome: Marcos,  idade: 12, Tempo em ano: 3, Equipe: Humanoide], [Nome: null,  idade: 0, Tempo em ano: 0, Equipe: null]]
